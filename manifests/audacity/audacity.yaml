@@ -5,5 +5,5 @@ home: https://www.audacityteam.org/
 repo: https://github.com/audacity/audacity/
 installMethod: Inno
 installers:
-- location: http://app.oldfoss.com:81/download/Audacity/audacity-win-2.3.0.exe
+- location: https://www.fosshub.com/Audacity.html/audacity-win-2.3.0.exe
   sha256: 3909676287cc0c44fe867bcc0e74a23891aeeeda42ebf11b3037c9b28dca43a1
